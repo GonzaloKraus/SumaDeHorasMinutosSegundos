@@ -1,0 +1,22 @@
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.AssemblyReference.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.Form1.resources
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.Properties.Resources.resources
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.GenerateResource.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.CoreCompileInputs.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\bin\Debug\SumaDeHorasMinutosSegundos.exe.config
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\bin\Debug\SumaDeHorasMinutosSegundos.exe
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\bin\Debug\SumaDeHorasMinutosSegundos.pdb
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.exe
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.pdb
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\bin\Debug\SumaDeHorasMinutosSegundos.exe.config
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\bin\Debug\SumaDeHorasMinutosSegundos.exe
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\bin\Debug\SumaDeHorasMinutosSegundos.pdb
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.AssemblyReference.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.FSumaHorasMinutosSegundos.resources
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.Properties.Resources.resources
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.GenerateResource.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.csproj.CoreCompileInputs.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.exe
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 1\Punto 9\SumaDeHorasMinutosSegundos\SumaDeHorasMinutosSegundos\obj\Debug\SumaDeHorasMinutosSegundos.pdb
